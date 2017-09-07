@@ -1,6 +1,5 @@
 var friends = ["Rick","Kenneth","Sebastian","Razvan","Matt"]
 var len = friends.length;
-
 var a=99
 var b=(a-1)
 
